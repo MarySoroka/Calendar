@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.405,=C:\Users\home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,=C:\Users\home\Desktop\Calendar\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,C:\Users\home\Desktop\Calendar\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,C:\Users\home\Desktop\Calendar\Unit1.pas=C:\Users\home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,C:\Users\home\Desktop\Calendar\Project1.dproj=C:\Users\home\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,=C:\Users\home\Desktop\Calendar\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,C:\Users\home\Desktop\Calendar\Unit1.dfm=C:\Users\home\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,=C:\Users\home\Desktop\Calendar\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,=C:\Users\home\Desktop\Calendar\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,=C:\Users\home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

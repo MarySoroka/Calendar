@@ -1,0 +1,19 @@
+mov cx, 8
+mov si, 0
+
+outp:
+     mov ah, 02h
+     mov dl, [arr+si]
+     add dl, 30h
+     int 21h
+     
+     add si, 1
+    loop outp
+mov ah, $09
+mov dx, 10
+int 21h
+
+mov dl, al
+add dl, 30h
+mov ah, 2
+int 21h
